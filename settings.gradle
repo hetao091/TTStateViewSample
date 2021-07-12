@@ -1,0 +1,3 @@
+rootProject.name = "TTStateViewSample"
+include ':app'
+include ':stateview'
